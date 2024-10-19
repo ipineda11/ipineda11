@@ -11,7 +11,7 @@ As an IT Engineer with expertise in server administration, IT security operation
 To utilize my expertise in IT security, systems administration, and network engineering to support the growth of innovative businesses. I strive to deliver resilient and secure technology solutions that enhance operational efficiency, protect critical data, and drive long-term success in an increasingly digital world.
 
 
-## Skills
+## Skills (UNDER CONSTRUCTION)
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -23,7 +23,7 @@ To utilize my expertise in IT security, systems administration, and network engi
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Tools (UNDER CONSSTRUCTION)
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
@@ -46,7 +46,7 @@ To utilize my expertise in IT security, systems administration, and network engi
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications (UNDER CONSTRUCTION)
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -56,6 +56,6 @@ To utilize my expertise in IT security, systems administration, and network engi
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Projects (UNDER CONSTRUCTION)
 - Detection Lab
 - SOC Automation Project
